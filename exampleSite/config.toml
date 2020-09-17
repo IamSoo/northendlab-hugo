@@ -66,7 +66,8 @@ weight = 2
 # home
 home = "Home"
 # logo
-logo = "images/logo.svg"
+#logo = "images/logo.svg"
+#logo = "images/logo.svg"
 # meta data
 author = "Themefisher"
 description = "This is meta description"
@@ -92,7 +93,7 @@ enable = true
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, I'm Soonam . <br> I'm a passionate Big Data & Full-Stack developer,currently connecting dots in the Open Banking World !!!"
 image = "images/banner/illustration.svg"
 
 
